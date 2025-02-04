@@ -102,7 +102,7 @@ const content = {
         </h1>
       ),
       subtitle:
-        "Com experiência e dedicação, garanto justiça em cada caso, lutando sempre pelo que é seu por direito.",
+        "Com experiência e dedicação lutando sempre pelo que é seu por direito.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
@@ -380,7 +380,7 @@ const content = {
       miniTag: "QUEM É O DR RAFAEL NASCIMENTO",
       title: "Minha trajetória",
       subtitle:
-        "Advogado desde 2014, com experiência em bancário e consumidor.",
+        "Viver honestamente, dar a cada um o que é seu, não prejudicar ninguém.",
       paragraph: (
         <div>
           Dr. Rafael da Silva Nascimento, inscrito na OAB/SP sob o número
@@ -452,18 +452,10 @@ const content = {
             últimas tendências e mudanças no mundo do direito.
           </p>
         ),
-        labelInstagram:(
-          <p>Siga-me no Instagram</p>
-        ),
-        labelFacebook:(
-          <p>Siga-me no Facebook</p>
-        ),
-        labelX:(
-          <p>Siga-me no X</p>
-        ),
-        labelLinkedIn:(
-          <p>Siga-me no LinkedIn</p>
-        ),
+        labelInstagram: <p>Siga-me no Instagram</p>,
+        labelFacebook: <p>Siga-me no Facebook</p>,
+        labelX: <p>Siga-me no X</p>,
+        labelLinkedIn: <p>Siga-me no LinkedIn</p>,
       },
     },
     cta: {
@@ -605,7 +597,7 @@ const content = {
       subtitle:
         "Utilize o mapa abaixo para chegar até nós com mais facilidade.",
       embedsrc:
-        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5228.594742930791!2d-51.169466!3d-23.321824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eb435bf9b37d8f%3A0xfb3125702df9f29d!2sMolina%20%26%20Spigarollo%20%7C%20Advogados%20Associados!5e1!3m2!1spt-BR!2sbr!4v1736876812303!5m2!1spt-BR!2sbr",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.7034150966!2d-47.048154544953704!3d-22.85045982607103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8c5cbf1ad052d%3A0xbdd9a3f43cd49793!2sR.%20Luiz%20Ot%C3%A1vio%2C%202565%20-%20Parque%20Taquaral%2C%20Campinas%20-%20SP%2C%2013087-560!5e0!3m2!1spt-BR!2sbr!4v1738680904304!5m2!1spt-BR!2sbr",
     },
     team: {
       title: "A_Definir",
