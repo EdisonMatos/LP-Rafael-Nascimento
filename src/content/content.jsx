@@ -102,7 +102,7 @@ const content = {
         </h1>
       ),
       subtitle:
-        "Com experiência e dedicação lutando sempre pelo que é seu por direito.",
+        "Atendimento jurídico de qualidade, com foco em resultados e respeito à sua história.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
