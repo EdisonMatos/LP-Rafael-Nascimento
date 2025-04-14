@@ -97,8 +97,8 @@ const content = {
       miniTag: "ADVOGADO CÍVEL E TRABALHISTA EM CAMPINAS - SP",
       title: (
         <h1 className="mb-[16px]">
-          Mais de uma década defendendo
-          <span className="text-primary"> seus direitos</span>
+          Dedicação, técnica e excelência
+          <span className="text-primary"> a serviço do seu direito</span>
         </h1>
       ),
       subtitle:
