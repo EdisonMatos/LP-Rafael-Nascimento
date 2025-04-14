@@ -97,12 +97,12 @@ const content = {
       miniTag: "ADVOGADO CÍVEL E TRABALHISTA EM CAMPINAS - SP",
       title: (
         <h1 className="mb-[16px]">
-          Mais de uma década defendendo
-          <span className="text-primary"> seus direitos</span>
+          Dedicação, técnica e excelência
+          <span className="text-primary"> a serviço do seu direito</span>
         </h1>
       ),
       subtitle:
-        "Com experiência e dedicação lutando sempre pelo que é seu por direito.",
+        "Atendimento jurídico de qualidade, com foco em resultados e respeito à sua história.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
